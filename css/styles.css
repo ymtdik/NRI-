@@ -188,6 +188,7 @@ body {
 }
 .movePage a {
   color: #0c419a;
+  padding: 0 3px;
 }
 .movePage a:hover {
   border-bottom: 1px solid;
